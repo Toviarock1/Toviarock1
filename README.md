@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns **Him/They/Them**
 
 - ⚡ Fun fact **I love playing Battle Royal Games and coding**
+
+
+
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Toviarock1&hide=["issues"]&show_icons=true)
