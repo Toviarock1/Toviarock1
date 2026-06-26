@@ -1,4 +1,4 @@
-### Hi there 👋, I am Simon Adama a Frontend Developer.
+### Hi there 👋, I am Simon Adama a Software Engineer.
 
 Here are some ideas to get you started:
 <pre>
